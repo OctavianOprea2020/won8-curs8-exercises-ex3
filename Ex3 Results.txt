@@ -1,0 +1,17 @@
+Calling Manager(firstName, lastName, birthday, address) constructor
+Manager's Full Name is: Joe Doe.
+Today is: 20.9.2022
+Birthday is: 4.10.1930
+Manager's A|ge is: 91 years old.
+
+Calling Manager(firstName, lastName, birthday, address) constructor
+Manager's Full Name is: Mary Smith.
+Today is: 20.9.2022
+Birthday is: 31.5.1989
+Manager's Age is: 33 years old.
+
+Calling Manager(firstName, lastName, birthday, address) constructor
+Manager's Full Name is: Liz King.
+Today is: 20.9.2022
+Birthday is: 1.1.2022
+Manager's Age is: 0 years old.
